@@ -7,7 +7,7 @@ The website is designed to improve online presence, showcase services, and allow
 
 ## 🌐 Live Demo
 
-* Website: [[https://your-live-site-link](https://your-live-site-link)](https://ushanmobile.netlify.app/)
+* Website: (https://ushanmobile.netlify.app/)
 
 ---
 
